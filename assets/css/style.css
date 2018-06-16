@@ -1,0 +1,36 @@
+.mainpart{
+    /* background-image: assets/images("regal.png"); */
+    height: 600px;
+}
+
+header{
+    
+    background-color: #cccccc;
+    /* float: left; */
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+ul{
+    /* float: right; */
+    display: inline;
+}
+.container1{
+    margin: 20px auto;
+    width: 960px;
+    height: 500px;
+    background-color: #ffffff;
+}
+
+p,
+#myface{
+    float: left;
+    width: 300px;
+    margin: 50px;
+}
+hr{
+    color:#dddddd;
+    size: 4px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
